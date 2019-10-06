@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6f3b937-1808-4749-95a1-7d638e417490" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02-Operators-Loop-Array-String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day02/operators/Example01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day02/operators/Example02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day02/operators/Example04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/day02/operators/Example05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day02/loop_control/example01/LoopFor_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day02/loop_control/example01/TestLoop_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day02/loop_control/example02/Triagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,46 +17,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/day02/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/day02/loop_control/example01/LoopFor_Sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/day02/operators/Example01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/day02/operators/Example02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/day02/operators/Example04.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            <state relative-caret-position="187">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/day02/operators/Example05.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/day02/loop_control/example02/Triagle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state>
+              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/day02/loop_control/example01/TestLoop_For.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-114">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -92,14 +65,17 @@
         <option value="$PROJECT_DIR$/src/com/company/day02/operators/example04.java" />
         <option value="$PROJECT_DIR$/src/com/company/day02/operators/Example04.java" />
         <option value="$PROJECT_DIR$/src/com/company/day02/operators/Example05.java" />
+        <option value="$PROJECT_DIR$/src/com/company/day02/loop_control/Example01.java" />
+        <option value="$PROJECT_DIR$/src/com/company/day02/loop_control/example01/TestLoop_For.java" />
+        <option value="$PROJECT_DIR$/src/com/company/day02/loop_control/example01/LoopFor_Sum.java" />
+        <option value="$PROJECT_DIR$/src/com/company/day02/loop_control/example02/Triagle.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="307" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -134,6 +110,21 @@
               <item name="Day02-Operators-Loop-Array-String" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="loop_control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day02-Operators-Loop-Array-String" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day02-Operators-Loop-Array-String" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="loop_control" type="462c0819:PsiDirectoryNode" />
+              <item name="example01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day02-Operators-Loop-Array-String" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day02-Operators-Loop-Array-String" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
               <item name="operators" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -143,7 +134,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570371028132" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570395167983" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,20 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example05">
-    <configuration name="Example01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.day02.operators.Example01" />
-      <module name="Day02-Operators-Loop-Array-String" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.day02.operators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Triagle">
     <configuration name="Example02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.day02.operators.Example02" />
       <module name="Day02-Operators-Loop-Array-String" />
@@ -210,29 +188,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.day02.Main" />
+    <configuration name="TestLoop_For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.day02.loop_control.example01.TestLoop_For" />
       <module name="Day02-Operators-Loop-Array-String" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.day02.loop_control.example01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triagle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.day02.loop_control.example02.Triagle" />
+      <module name="Day02-Operators-Loop-Array-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.day02.loop_control.example02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Example01" />
       <item itemvalue="Application.Example02" />
       <item itemvalue="Application.Example04" />
       <item itemvalue="Application.Example05" />
+      <item itemvalue="Application.TestLoop_For" />
+      <item itemvalue="Application.Triagle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Triagle" />
+        <item itemvalue="Application.TestLoop_For" />
         <item itemvalue="Application.Example05" />
         <item itemvalue="Application.Example04" />
         <item itemvalue="Application.Example02" />
-        <item itemvalue="Application.Example01" />
       </list>
     </recent_temporary>
   </component>
@@ -251,6 +246,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -261,14 +257,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4816" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4816" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3296" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3296" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -309,10 +305,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/day02/loop_control/Example01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/day02/operators/Example05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="472">
           <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/day02/loop_control/example01/TestLoop_For.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/day02/loop_control/example01/LoopFor_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/day02/loop_control/example02/Triagle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
