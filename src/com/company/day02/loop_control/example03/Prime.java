@@ -23,10 +23,17 @@ public class Prime {
 
         System.out.println("Enter n need check for number: ");
         int n = scanner.nextInt();
-        for (int i=2;i<=n;i++){
+//        for (int i=2;i<=n;i++){
+//            if (checkPrime(i)){
+//                System.out.println(i+"\t");
+//            }
+//        }
+        int i=2;
+        while (i<n){
             if (checkPrime(i)){
-                System.out.println(i+"\t");
+                System.out.print(i+"\t");
             }
+            i++;
         }
     }
 }
