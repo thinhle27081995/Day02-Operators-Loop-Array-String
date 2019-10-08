@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6f3b937-1808-4749-95a1-7d638e417490" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/day02/java_arrays/example01/ArrayTutorials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/day02/java_arrays/example01/ArrayTutorials02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,11 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/day02/java_arrays/example01/ArrayTutorials.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="326">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/day02/java_arrays/example01/ArrayTutorials02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -129,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/com/company/day02/java_arrays/example02/TestStudent.java" />
         <option value="$PROJECT_DIR$/src/com/company/day02/java_arrays/example02/Student.java" />
         <option value="$PROJECT_DIR$/src/com/company/day02/java_arrays/example01/ArrayTutorials.java" />
+        <option value="$PROJECT_DIR$/src/com/company/day02/java_arrays/example01/ArrayTutorials02.java" />
       </list>
     </option>
   </component>
@@ -203,7 +213,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570559480713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570561063239" />
     <property name="last_opened_file_path" value="H:/DevPro/Java41/BaiTapVeNha/Day02_LeSinhThinh" />
   </component>
   <component name="RunDashboard">
@@ -218,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayTutorials">
+  <component name="RunManager" selected="Application.ArrayTutorials02">
     <configuration name="ArrayOfObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.day02.java_arrays.example01.ArrayOfObjects" />
       <module name="Day02-Operators-Loop-Array-String" />
@@ -245,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example04 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.day02.loop_control.example04.Example04" />
+    <configuration name="ArrayTutorials02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.day02.java_arrays.example01.ArrayTutorials02" />
       <module name="Day02-Operators-Loop-Array-String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.day02.loop_control.example04.*" />
+          <option name="PATTERN" value="com.company.day02.java_arrays.example01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,19 +295,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Example04 (1)" />
       <item itemvalue="Application.SwitchCase" />
       <item itemvalue="Application.ArrayOfObjects" />
       <item itemvalue="Application.TestStudent" />
       <item itemvalue="Application.ArrayTutorials" />
+      <item itemvalue="Application.ArrayTutorials02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayTutorials02" />
         <item itemvalue="Application.ArrayTutorials" />
         <item itemvalue="Application.TestStudent" />
         <item itemvalue="Application.ArrayOfObjects" />
         <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.Example04 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -327,14 +337,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.9392" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3296" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3296" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -502,8 +512,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/day02/java_arrays/example01/ArrayTutorials.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="326">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/day02/java_arrays/example01/ArrayTutorials02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
