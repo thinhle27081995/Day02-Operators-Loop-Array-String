@@ -1,6 +1,6 @@
 package com.company.day02.java_arrays.example01;
 
-public class ArrayTutorials {
+public class ArrayTutorials01 {
     public static int[] reverseArray(int[] input){
         int[] reverse = new int[input.length];
         for (int i=0,j=reverse.length-1;i<input.length;i++,j--){
